@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementAPI", "UserManagementAPI\UserManagementAPI.csproj", "{680D66AA-7533-4E70-898D-050A3AAB9794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementAPI.Models", "UserManagementAPI.Models\UserManagementAPI.Models.csproj", "{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680D66AA-7533-4E70-898D-050A3AAB9794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680D66AA-7533-4E70-898D-050A3AAB9794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680D66AA-7533-4E70-898D-050A3AAB9794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680D66AA-7533-4E70-898D-050A3AAB9794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
