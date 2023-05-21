@@ -1238,6 +1238,35 @@
             "rid": "win"
           }
         }
+      },
+      "UserManagementAPI.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5",
+          "UserManagementAPI.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UserManagementAPI.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserManagementAPI.Data.dll": {}
+        }
+      },
+      "UserManagementAPI.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "7.0.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.5"
+        },
+        "compile": {
+          "bin/placeholder/UserManagementAPI.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UserManagementAPI.Models.dll": {}
+        }
       }
     }
   },
@@ -3899,6 +3928,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "UserManagementAPI.Data/1.0.0": {
+      "type": "project",
+      "path": "../UserManagementAPI.Data/UserManagementAPI.Data.csproj",
+      "msbuildProject": "../UserManagementAPI.Data/UserManagementAPI.Data.csproj"
+    },
+    "UserManagementAPI.Models/1.0.0": {
+      "type": "project",
+      "path": "../UserManagementAPI.Models/UserManagementAPI.Models.csproj",
+      "msbuildProject": "../UserManagementAPI.Models/UserManagementAPI.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3908,7 +3947,8 @@
       "Microsoft.EntityFrameworkCore.Design >= 7.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.5",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.5",
-      "Swashbuckle.AspNetCore >= 6.4.0"
+      "Swashbuckle.AspNetCore >= 6.4.0",
+      "UserManagementAPI.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3937,7 +3977,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\UserManagementSolution\\UserManagementAPI.Data\\UserManagementAPI.Data.csproj": {
+              "projectPath": "D:\\UserManagementSolution\\UserManagementAPI.Data\\UserManagementAPI.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

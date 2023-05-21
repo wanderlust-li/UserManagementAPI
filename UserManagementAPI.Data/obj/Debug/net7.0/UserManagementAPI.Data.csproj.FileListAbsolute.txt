@@ -1,0 +1,17 @@
+D:\UserManagementSolution\UserManagementAPI.Data\bin\Debug\net7.0\UserManagementAPI.Data.deps.json
+D:\UserManagementSolution\UserManagementAPI.Data\bin\Debug\net7.0\UserManagementAPI.Data.runtimeconfig.json
+D:\UserManagementSolution\UserManagementAPI.Data\bin\Debug\net7.0\UserManagementAPI.Data.dll
+D:\UserManagementSolution\UserManagementAPI.Data\bin\Debug\net7.0\UserManagementAPI.Data.pdb
+D:\UserManagementSolution\UserManagementAPI.Data\bin\Debug\net7.0\UserManagementAPI.Models.dll
+D:\UserManagementSolution\UserManagementAPI.Data\bin\Debug\net7.0\UserManagementAPI.Models.pdb
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.csproj.AssemblyReference.cache
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.AssemblyInfoInputs.cache
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.AssemblyInfo.cs
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.csproj.CoreCompileInputs.cache
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.csproj.CopyComplete
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.dll
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\refint\UserManagementAPI.Data.dll
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.pdb
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\UserManagementAPI.Data.genruntimeconfig.cache
+D:\UserManagementSolution\UserManagementAPI.Data\obj\Debug\net7.0\ref\UserManagementAPI.Data.dll
