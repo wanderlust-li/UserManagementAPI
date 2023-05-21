@@ -48,7 +48,7 @@ public class UserController : Controller
         _context.Users.Remove(result);
         await _context.SaveChangesAsync();
 
-        return NoContent();
+        return Ok(result);
     }
 
     [HttpPut("{id}")]
@@ -59,7 +59,7 @@ public class UserController : Controller
         _context.Entry(user).State = EntityState.Modified;
         await _context.SaveChangesAsync();
 
-        return NoContent();
+        return Ok(user);
 
     }
 }
