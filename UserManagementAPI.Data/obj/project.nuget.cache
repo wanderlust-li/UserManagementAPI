@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vpc9ij7EyQe4xAGDedx8CSf87nmq7d6s/XYBBNwI6L/G2GnlpxaElIgeDz0cSueu9OqEBVkpgVh4dnIf3WJdjA==",
+  "dgSpecHash": "A3cJ94FIlLLh1voI+fEQdKHDNY97ukii7+eakdWmpOYw6+VXk0Z2j2OLQVj0L/Xlv7z0NpQaXzEvjPscbp59Bg==",
   "success": true,
-  "projectFilePath": "D:\\UserManagementSolution\\UserManagementAPI.Models\\UserManagementAPI.Models.csproj",
+  "projectFilePath": "D:\\UserManagementSolution\\UserManagementAPI.Data\\UserManagementAPI.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

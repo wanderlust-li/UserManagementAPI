@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementAPI", "UserMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementAPI.Models", "UserManagementAPI.Models\UserManagementAPI.Models.csproj", "{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManagementAPI.Data", "UserManagementAPI.Data\UserManagementAPI.Data.csproj", "{3D99DE4B-A8A5-4D76-BDE5-27AF2EC3A476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFE189C0-D832-4BEA-9F3D-CA21A873BC90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D99DE4B-A8A5-4D76-BDE5-27AF2EC3A476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D99DE4B-A8A5-4D76-BDE5-27AF2EC3A476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D99DE4B-A8A5-4D76-BDE5-27AF2EC3A476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D99DE4B-A8A5-4D76-BDE5-27AF2EC3A476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
